@@ -1,0 +1,11 @@
+Conectarse a una base de datos MySQL
+
+#1 Crear una tabla Students que tenga las columnas:
+
+- DNI: number
+- FirstName: string
+- LastName: string
+- Age: number
+
+#2 Conectar la aplicación para insertar un Student
+#3 Conectar la aplicación para listar students
